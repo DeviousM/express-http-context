@@ -1,6 +1,6 @@
 {
-  "name": "express-http-context",
-  "version": "1.2.3",
+  "name": "@deviousm/express-http-context",
+  "version": "1.2.4",
   "description": "Get and set request-scoped context anywhere",
   "main": "index.js",
   "browser": "browser.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/skonves/express-http-context.git"
+    "url": "git+https://github.com/DeviousM/express-http-context.git"
   },
   "keywords": [
     "express",
